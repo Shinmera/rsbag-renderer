@@ -1,8 +1,3 @@
-#|
-This file is a part of rsbag-renderer
-Author: Nicolas Hafner <shinmera@tymoon.eu>
-|#
-
 (in-package #:rsbag-renderer)
 (defpackage #:rsbag-renderer.source.file
   (:use #:cl #:rsbag-renderer)

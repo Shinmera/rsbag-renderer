@@ -1,14 +1,9 @@
-#|
-This file is a part of rsbag-renderer
-Author: Nicolas Hafner <shinmera@tymoon.eu>
-|#
-
 (in-package #:cl-user)
 (asdf:defsystem :rsbag-renderer
   :version "0.1.0"
   :license "LGPL2.1"
-  :author "Nicolas Hafner <shinmera@tymoon.eu>"
-  :maintainer "Nicolas Hafner <shinmera@tymoon.eu>"
+  :author "Yukari Hafner <shinmera@tymoon.eu>"
+  :maintainer "Yukari Hafner <shinmera@tymoon.eu>"
   :description "RSBag Data Web Server"
   :serial T
   :components ((:file "package")
